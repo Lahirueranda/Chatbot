@@ -1,0 +1,12 @@
+Here is the instruction to run project in your local machine 
+
+# First of all run backend firstly,
+    cd backend
+    npm run start
+
+# Next, run frontend,
+    cd frontend
+    npm install
+    npm run dev
+
+
