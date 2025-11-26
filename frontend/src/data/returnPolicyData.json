@@ -1,0 +1,33 @@
+{
+  "header": {
+    "title": "Our Promise of Perfection",
+    "description": "We take great pride in our craftsmanship. If your Beyon chocolate experience isn't perfect, we are here to make it right."
+  },
+  "features": [
+    {
+      "icon": "Clock",
+      "title": "30-Day Guarantee",
+      "text": "Requests must be made within 30 days of delivery."
+    },
+    {
+      "icon": "ShieldCheck",
+      "title": "Quality Assurance",
+      "text": "Full refunds for any heat damage or melting."
+    },
+    {
+      "icon": "RefreshCw",
+      "title": "Easy Returns",
+      "text": "Contact us and we will send a prepaid label."
+    }
+  ],
+  "policySections": [
+    {
+      "heading": "Refund Eligibility",
+      "content": "To be eligible for a return, your item must be in the same condition that you received it, unworn or unused, with tags, and in its original packaging. You’ll also need the receipt or proof of purchase."
+    },
+    {
+      "heading": "Damages and Issues",
+      "content": "Please inspect your order upon reception and contact us immediately if the item is defective, damaged or if you receive the wrong item, so that we can evaluate the issue and make it right."
+    }
+  ]
+}

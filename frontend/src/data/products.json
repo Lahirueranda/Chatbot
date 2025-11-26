@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Signature Truffle Box",
+    "price": 24.0,
+    "category": "Gifts",
+    "image": "https://images.unsplash.com/photo-1548907040-4baa42d10919?w=500",
+    "desc": "Hand-painted truffles with ganache filling."
+  },
+  {
+    "id": 2,
+    "name": "70% Dark Hazelnut Bar",
+    "price": 8.5,
+    "category": "Bars",
+    "image": "https://images.unsplash.com/photo-1511381939415-e44015466834?w=500",
+    "desc": "Rich dark chocolate with roasted hazelnuts."
+  },
+  {
+    "id": 3,
+    "name": "Golden Caramel Drizzle",
+    "price": 12.0,
+    "category": "Caramels",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdP1XYYwuK7f8-5Tpjp4QSuT_jeSHX2PffhD2mmzCUfExHcVe2KUMSaz6aYeBz_wGzXWs&usqp=CAU",
+    "desc": "Salted caramel coated in milk chocolate."
+  },
+  {
+    "id": 4,
+    "name": "Luxury Hot Cocoa Mix",
+    "price": 18.0,
+    "category": "Drinks",
+    "image": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=500",
+    "desc": "Belgian shavings for the perfect cozy cup."
+  },
+  {
+    "id": 5,
+    "name": "Ruby Chocolate Hearts",
+    "price": 15.0,
+    "category": "Gifts",
+    "image": "https://cdn-ilanhlf.nitrocdn.com/AzmJrPQohnwWLiYOIRijiymirQDdSgxs/assets/images/optimized/rev-1120628/theluxuryeditor.com/wp-content/uploads/2022/01/8018985_mob_sq_b.jpeg",
+    "desc": "Naturally pink chocolate with berry notes."
+  },
+  {
+    "id": 6,
+    "name": "White Pistachio Bark",
+    "price": 14.5,
+    "category": "Bars",
+    "image": "https://immigrantstable.com/wp-content/uploads/2022/11/White-Chocolate-Bark-17.jpg",
+    "desc": "Creamy white chocolate with Sicilian pistachios."
+  },
+  {
+    "id": 7,
+    "name": "Espresso Dark Beans",
+    "price": 9.0,
+    "category": "Snacks",
+    "image": "https://marich.com/wp-content/uploads/2023/01/21-1-scaled.jpg",
+    "desc": "Roasted coffee beans covered in 80% dark chocolate."
+  },
+  {
+    "id": 8,
+    "name": "Assorted Pralines",
+    "price": 32.0,
+    "category": "Gifts",
+    "image": "https://images.unsplash.com/photo-1599599810769-bcde5a160d32?w=500",
+    "desc": "A premium selection of our finest pralines."
+  },
+  {
+    "id": 9,
+    "name": "Orange Peel Strips",
+    "price": 16.0,
+    "category": "Snacks",
+    "image": "https://images.unsplash.com/photo-1526081347589-7fa3cb41b4b2?w=500",
+    "desc": "Candied orange peel dipped in dark chocolate."
+  },
+  {
+    "id": 10,
+    "name": "Vegan Coconut Bar",
+    "price": 7.5,
+    "category": "Vegan",
+    "image": "https://images.unsplash.com/photo-1481391319762-47dff72954d9?w=500",
+    "desc": "Dairy-free chocolate with toasted coconut flakes."
+  },
+  {
+    "id": 11,
+    "name": "Sea Salt Almonds",
+    "price": 11.0,
+    "category": "Snacks",
+    "image": "https://images.unsplash.com/photo-1548848221-0c2e497ed557?w=500",
+    "desc": "Crunchy almonds dusted with cocoa and sea salt."
+  },
+  {
+    "id": 12,
+    "name": "Mint Chocolate Thins",
+    "price": 13.0,
+    "category": "Bars",
+    "image": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/500/3e77b9d1-9c42-4990-b96b-894c6d448f37/Delightful%20Chocolate%20Mint%20Thins%20200g",
+    "desc": "Refreshing mint filling inside crisp dark chocolate."
+  },
+  {
+    "id": 13,
+    "name": "Raspberry Ganache",
+    "price": 22.0,
+    "category": "Gifts",
+    "image": "https://www.forkknifeswoon.com/wp-content/uploads/2019/06/raspberry-chocolate-ganache-tart-fork-knife-swoon-01.jpg",
+    "desc": "Tart raspberry center enveloped in rich ganache."
+  },
+  {
+    "id": 14,
+    "name": "Milk Chocolate Coins",
+    "price": 15.0,
+    "category": "Kids",
+    "image": "https://assets.digitalcontent.marksandspencer.app/image/upload/w_2560,q_auto,c_fill,f_auto/22d516480166c6ce78d3792f1ff4d992.jpg",
+    "desc": "Classic gold-wrapped milk chocolate coins."
+  },
+  {
+    "id": 15,
+    "name": "Chili Dark Bar",
+    "price": 9.5,
+    "category": "Bars",
+    "image": "https://m.media-amazon.com/images/I/51aoHeVPBKL._AC_UF894,1000_QL80_.jpg",
+    "desc": "Spicy kick of cayenne pepper in 70% dark chocolate."
+  },
+  {
+    "id": 16,
+    "name": "Drinking Chocolate Powder",
+    "price": 20.0,
+    "category": "Drinks",
+    "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=500",
+    "desc": "Rich and thick European style drinking chocolate."
+  },
+  {
+    "id": 17,
+    "name": "Matcha White Chocolate",
+    "price": 10.0,
+    "category": "Bars",
+    "image": "https://c2.staticflickr.com/2/1659/25865160696_4b1964b926_b.jpg",
+    "desc": "Japanese matcha green tea blended with white chocolate."
+  },
+  {
+    "id": 18,
+    "name": "Peanut Butter Cups",
+    "price": 12.0,
+    "category": "Snacks",
+    "image": "https://i.ytimg.com/vi/QeXjjow6zHQ/maxresdefault.jpg",
+    "desc": "Handmade cups with creamy peanut butter filling."
+  },
+  {
+    "id": 19,
+    "name": "Strawberry Dipped",
+    "price": 19.0,
+    "category": "Fresh",
+    "image": "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=500",
+    "desc": "Fresh strawberries dipped in gourmet chocolate."
+  },
+  {
+    "id": 20,
+    "name": "The Grand Collection",
+    "price": 150.0,
+    "category": "Gifts",
+    "image": "https://images.unsplash.com/photo-1499195333224-3ce974eecb47?w=500",
+    "desc": "Our complete assortment in a wooden luxury box."
+  }
+]
